@@ -64,7 +64,7 @@ Response should return
 - implementation of backend (Which was not required in the task given)
   - Implementation of webhook or event notification mechanism. When ever a phtoto is uploadded it should show up on the website in real time. This is achieved by web hooks. In C# for instance, One could use a technology like SignalR to implement this functionality.
 - Proper use of vue props. Currently all components get data via the vuex store. One could argue that another place in code should be responsible for that and then populate state via props. Split data fetching from view rendering.
-- Code is organised y technology like small demo projects often are. In a real world Setup, I would recommend organizing code primarily by business capabilities or use cases
+- Code is organised by technology like small demo projects often are. In a real world Setup, I would recommend organizing code primarily by business capabilities or use cases
 
 ## How to run it
 
