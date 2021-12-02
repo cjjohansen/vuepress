@@ -13,7 +13,7 @@ This is what I have accomplished within the given time frame.
 - preview of 10 images (referred to as InView Images)
 - list of uploaded images
 - Vuex store to bind several controls together
-  - Vuew store with state for uploaded/rejected and approved images.
+  - Vuew store with state for uploaded, rejected and approved images.
 - Button simulating Upload of new image (By adding a new image to the Vuew store state)
 
 ### Todo
